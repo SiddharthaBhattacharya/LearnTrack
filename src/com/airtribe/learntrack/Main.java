@@ -16,7 +16,7 @@ import com.airtribe.learntrack.service.StudentService;
 import com.airtribe.learntrack.util.InputValidator;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+// Final submission code.
 public class Main {
     private final Scanner scanner = new Scanner(System.in);
     private final StudentService studentService;
